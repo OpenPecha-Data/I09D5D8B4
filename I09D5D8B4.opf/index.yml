@@ -1,0 +1,103 @@
+id: 47c9fbb2a61947a9a3fcd8d230f5f883
+annotation_type: index
+revision: '00001'
+annotations:
+  7d4f8380ca094acb9a8fe1db45169fd3:
+    base: CC79.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 40
+    - title: Preface
+      span:
+        start: 41
+        end: 56
+    - title: Section 1
+      span:
+        start: 57
+        end: 573
+    - title: Section 2
+      span:
+        start: 574
+        end: 1619
+    - title: Section 3
+      span:
+        start: 1620
+        end: 4411
+    - title: Section 4
+      span:
+        start: 4412
+        end: 6045
+    - title: Section 5
+      span:
+        start: 6046
+        end: 7359
+    - title: Section 6
+      span:
+        start: 7360
+        end: 7963
+    - title: Section 7
+      span:
+        start: 7964
+        end: 10333
+    - title: Section 8
+      span:
+        start: 10334
+        end: 11229
+    - title: Section 9
+      span:
+        start: 11230
+        end: 11493
+    - title: Section 10
+      span:
+        start: 11494
+        end: 11936
+    - title: Section 11
+      span:
+        start: 11937
+        end: 12044
+    - title: Section 12
+      span:
+        start: 12045
+        end: 12512
+    - title: Section 13
+      span:
+        start: 12513
+        end: 13223
+    - title: Section 14
+      span:
+        start: 13224
+        end: 13387
+    - title: Section 15
+      span:
+        start: 13388
+        end: 14070
+    - title: Section 16
+      span:
+        start: 14071
+        end: 14389
+    - title: Section 17
+      span:
+        start: 14390
+        end: 15131
+    - title: Section 18
+      span:
+        start: 15132
+        end: 15538
+    - title: Section 19
+      span:
+        start: 15539
+        end: 15674
+    - title: Section 20
+      span:
+        start: 15675
+        end: 16210
+    - title: Section 21
+      span:
+        start: 16211
+        end: 16331
+    - title: Colophon
+      span:
+        start: 16332
+        end: 16344
